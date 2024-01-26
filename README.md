@@ -143,10 +143,47 @@ Step 3. Install prerequisites
 
 <img src="https://i.imgur.com/Gn2nJhC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ZqVfKSg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="[https://i.imgur.com/DNnR9tP](https://i.imgur.com/Gn2nJhC.png).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DNnR9tP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ (Restart IIS server)
+
+ 
+  - On right click "Browse *:80
+  - In IIS go to site->defaults->osTicket
+  - Double click PHP Manager
+  - Click Enable or disable an extension 
+
+
+<img src="https://i.imgur.com/7HeI477.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oZxsB9n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JZ1ayEj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cIVF8ST.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ (Refresh osticket site in your browser)
+
+   - Rename: ost-config.php
+    
+     -From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+     
+     -To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+     <img src="https://i.imgur.com/804gyKf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+     
+
+ - Assign Permissions: ost-config.php
+       
+   -Disable inheritance-> Remove all
+        
+   -New Permissions-> Everyone-> All
+    
+<img src="https://i.imgur.com/exGYbg4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ -
 <img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 
@@ -157,7 +194,7 @@ Step 3. Install prerequisites
 
 
 
-<img src="https://i.imgur.com/NAvzsi9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://iimgur.com/NAvzsi9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
