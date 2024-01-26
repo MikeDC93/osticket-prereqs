@@ -76,26 +76,47 @@ Step 3. Install prerequisites
 (Prerequisites Files)
 
 <img src="https://i.imgur.com/IlygbgL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>
-
-</p>
-<p>
-- Download and instal PHP Manager for IIS (PHPManagerForIIS_V1.5.0.MSI)
 
 
-   <img src="https://i.imgur.com/drMeNxR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+ - Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.MSI)
+
+   
+  
+
+ 
+ <img src="https://i.imgur.com/drMeNxR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
    - Download and install Rewrite Module (rewrite_amd64_ne-US.msi)
+    
 
-   - <img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-   - 
-</p>
-<br />
+<img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+   
+   - Create the directory C:\PHP
+
+   - <img src="https://i.imgur.com/SaoWtXU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+    
+
+   - Download and install PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.Z) and unzip contents into C:\PHP
+
+    
+  <img src="https://i.imgur.com/0YJvDlx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+   - Download and install VC_redist.x86.exe.
+
+
+
+    
+
+
+
+
+<img src="https://i.imgur.com/NAvzsi9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
 </p>
 <br />
