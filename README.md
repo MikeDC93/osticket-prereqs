@@ -70,11 +70,25 @@ c.
 
 <img src="https://i.imgur.com/cWlAEnj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+
+Step 3. Install prerequisites
+
+(Prerequisites Files)
+
+<img src="https://i.imgur.com/IlygbgL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Download and instal PHP Manager for IIS (PHPManagerForIIS_V1.5.0.MSI)
+
+
+   <img src="https://i.imgur.com/drMeNxR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+   - Download and install Rewrite Module (rewrite_amd64_ne-US.msi)
+
+   - <img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   - 
 </p>
 <br />
 
