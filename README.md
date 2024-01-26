@@ -38,18 +38,40 @@ Step 1. Create a virtual machine in Azure
 
    a. Name virtual machine VM-osticket
 
-  B. For username use labuser (Can be anything)
+  b. For username use labuser (Can be anything)
 
    c. For password use osTicketPassword1 (Can be anything) 
 <img src="https://i.imgur.com/4eyhbfM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 2. Turn on / enable features in Windows
+
+- Install / Enable IIS ( Internet Information Services) in Windows with CGI and Common HHTP Featrues.
+
+  (Steps to enable, All steps in IIS)
+
+   a. World Wide Services-> Application Development Features-> Mark CGI box
+ 
+   b. World Wide Web Services-> Common HTTP Features-> Mark all boxs
+
+   c. IIS-> Web Management-> IIS Management-> Mark IIS Management Console
+
+  
 </p>
 <br />
+a.
+<img src="https://i.imgur.com/cWlAEnj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+b.
+
+<img src="https://i.imgur.com/RXK1kSL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+c.
+
+<img src="https://i.imgur.com/cWlAEnj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
