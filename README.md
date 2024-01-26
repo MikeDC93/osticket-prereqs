@@ -177,12 +177,46 @@ Step 3. Install prerequisites
     
 <img src="https://i.imgur.com/exGYbg4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
- -
-<img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   - Continue setting up osTicket in the browser (Click continue) Fill in info
+     
+     -Name helpdesk (Whatever you want)
+     
+     -Default email (Whatever you want)
+
+- From the installation files download and install HeidiSQL
+    
+  -Open Heidi SQL
+
+  -Create a new session, root/Password1
+
+  -Connect to the session
+
+  -Create a database called "osTicket"
+
+ 
+<img src="https://i.imgur.com/SX6TJsI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+- Continue setting up osTicket in the browser
+  
+  -MySQL Database: osTicket
+  
+  -MySQL Username: root
+  
+  -MySQL Password: Password1
+  
+  -Click "Install Now"
+  
+<img src="https://i.imgur.com/6sfzdWm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ -Finish Congratulations!
+
+ - Clean up
+
+   -Delete C:\inetpub\wwwroot\osTicket\setup
+   
+   -Set Permissions to "Read" only C:\inetpub\wwwroot\osTicket\include\ost-config.php
+   
+<img src="https://i.imgur.com/o0W9cI1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 
