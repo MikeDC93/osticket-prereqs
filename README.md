@@ -107,6 +107,49 @@ Step 3. Install prerequisites
 
    - Download and install VC_redist.x86.exe.
 
+ <img src="https://i.imgur.com/NAvzsi9.png" height="80%" width="80%" alt="Disk Sanitization Steps">
+
+  
+  - Download MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+  
+  -Typical Setup
+ 
+  -Launch Configuration Wizard (after install)
+ 
+  -Standard Configuration
+  
+  -Password1   
+  
+  
+  <img src="https://i.imgur.com/65cayQV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/hs5ffYS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/axHPAHX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ - Open IIS as admin
+ - Register PHP from within IIS
+ - Reload IIS (Restart server)
+
+<img src="https://i.imgur.com/OaamSHX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<img src="https://i.imgur.com/WI8wek9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ Step 4. Installing OsTicket
+
+ - Download osTicket from installation files folder
+ - Extract and copy "upload" folder to c:\inetpub\wwwroot
+ - Within c:\inetpub\wwwroot, Rename "upload" to "osTicket
+
+
+<img src="https://i.imgur.com/Gn2nJhC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZqVfKSg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/DNnR9tP](https://i.imgur.com/Gn2nJhC.png).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
 
 
     
