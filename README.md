@@ -131,7 +131,7 @@ Step 3. Install prerequisites
 <img src="https://i.imgur.com/OaamSHX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-<img src="https://i.imgur.com/WI8wek9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2RbAlLc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
  Step 4. Installing OsTicket
 
