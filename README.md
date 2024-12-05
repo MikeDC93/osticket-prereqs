@@ -85,12 +85,12 @@ Step 3. Install prerequisites
   
 
  
- <img src="https://i.imgur.com/drMeNxR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/oTjbVNh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
    - Download and install Rewrite Module (rewrite_amd64_ne-US.msi)
     
 
-<img src="https://i.imgur.com/ghFGArp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vy6IL7A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
    
    - Create the directory C:\PHP
